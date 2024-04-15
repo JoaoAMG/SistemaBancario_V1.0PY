@@ -1,6 +1,3 @@
-
-
-
 print("""
 ----------Cliente por favor insira seus dados a seguir------------""")
 print()
